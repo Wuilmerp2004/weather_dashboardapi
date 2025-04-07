@@ -1,10 +1,10 @@
 # Web Development Project 5 - *Name of App Here*
 
-Submitted by: **Your Name Here**
+Submitted by: **Wuilmer Palacios**
 
-This web app: **insert description**
+This web app: **weather dashboard**
 
-Time spent: **X** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Required Features
 
